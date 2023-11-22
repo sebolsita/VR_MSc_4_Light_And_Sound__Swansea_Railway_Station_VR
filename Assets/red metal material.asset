@@ -53,6 +53,10 @@ MonoBehaviour:
   - rid: 8926532958864539755
   - rid: 8926532958864539762
   - rid: 8926532958864539769
+  - rid: 8926533000844804098
+  - rid: 8926533000844804201
+  - rid: 8926533000844804208
+  - rid: 8926533000844804215
   currentMode: TextToImage
   m_Data:
   - rid: 8926532821517598720
@@ -106,7 +110,7 @@ MonoBehaviour:
           type: PromptOperator
           version: 0.0.1
           settings:
-          - light beige polished marbel
+          - metal painted light gray, smooth surface
           enabled: 1
           assembly: 
     - rid: 8926532821517598724
@@ -789,56 +793,56 @@ MonoBehaviour:
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 199720886
+        Seed: 2644201350
         m_Operators:
-        - rid: 8926532958864539649
-        - rid: 8926532958864539650
-        - rid: 8926532958864539651
-        - rid: 8926532958864539652
-        - rid: 8926532958864539653
-        - rid: 8926532958864539654
+        - rid: 8926533000844804099
+        - rid: 8926533000844804100
+        - rid: 8926533000844804101
+        - rid: 8926533000844804102
+        - rid: 8926533000844804103
+        - rid: 8926533000844804104
         history:
         - rid: 8926532821517599016
     - rid: 8926532821517599023
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 3930562516
+        Seed: 1826080305
         m_Operators:
-        - rid: 8926532958864539655
-        - rid: 8926532958864539656
-        - rid: 8926532958864539657
-        - rid: 8926532958864539658
-        - rid: 8926532958864539659
-        - rid: 8926532958864539660
+        - rid: 8926533000844804105
+        - rid: 8926533000844804106
+        - rid: 8926533000844804107
+        - rid: 8926533000844804108
+        - rid: 8926533000844804109
+        - rid: 8926533000844804110
         history:
         - rid: 8926532821517599023
     - rid: 8926532821517599030
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 2895216760
+        Seed: 3616346812
         m_Operators:
-        - rid: 8926532958864539661
-        - rid: 8926532958864539662
-        - rid: 8926532958864539663
-        - rid: 8926532958864539664
-        - rid: 8926532958864539665
-        - rid: 8926532958864539666
+        - rid: 8926533000844804111
+        - rid: 8926533000844804112
+        - rid: 8926533000844804113
+        - rid: 8926533000844804114
+        - rid: 8926533000844804115
+        - rid: 8926533000844804116
         history:
         - rid: 8926532821517599030
     - rid: 8926532821517599037
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 1475363950
+        Seed: 3915537389
         m_Operators:
-        - rid: 8926532958864539667
-        - rid: 8926532958864539668
-        - rid: 8926532958864539669
-        - rid: 8926532958864539670
-        - rid: 8926532958864539671
-        - rid: 8926532958864539672
+        - rid: 8926533000844804117
+        - rid: 8926533000844804118
+        - rid: 8926533000844804119
+        - rid: 8926533000844804120
+        - rid: 8926533000844804121
+        - rid: 8926533000844804122
         history:
         - rid: 8926532821517599037
     - rid: 8926532929465614369
@@ -1161,56 +1165,56 @@ MonoBehaviour:
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 44908128
+        Seed: 1338844990
         m_Operators:
-        - rid: 8926532958864539673
-        - rid: 8926532958864539674
-        - rid: 8926532958864539675
-        - rid: 8926532958864539676
-        - rid: 8926532958864539677
-        - rid: 8926532958864539678
+        - rid: 8926533000844804123
+        - rid: 8926533000844804124
+        - rid: 8926533000844804125
+        - rid: 8926533000844804126
+        - rid: 8926533000844804127
+        - rid: 8926533000844804128
         history:
         - rid: 8926532929465614397
     - rid: 8926532929465614428
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 1123230514
+        Seed: 2435059383
         m_Operators:
-        - rid: 8926532958864539679
-        - rid: 8926532958864539680
-        - rid: 8926532958864539681
-        - rid: 8926532958864539682
-        - rid: 8926532958864539683
-        - rid: 8926532958864539684
+        - rid: 8926533000844804129
+        - rid: 8926533000844804130
+        - rid: 8926533000844804131
+        - rid: 8926533000844804132
+        - rid: 8926533000844804133
+        - rid: 8926533000844804134
         history:
         - rid: 8926532929465614428
     - rid: 8926532929465614435
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 249717946
+        Seed: 3464992947
         m_Operators:
-        - rid: 8926532958864539685
-        - rid: 8926532958864539686
-        - rid: 8926532958864539687
-        - rid: 8926532958864539688
-        - rid: 8926532958864539689
-        - rid: 8926532958864539690
+        - rid: 8926533000844804135
+        - rid: 8926533000844804136
+        - rid: 8926533000844804137
+        - rid: 8926533000844804138
+        - rid: 8926533000844804139
+        - rid: 8926533000844804140
         history:
         - rid: 8926532929465614435
     - rid: 8926532929465614442
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 2548307118
+        Seed: 2784054041
         m_Operators:
-        - rid: 8926532958864539691
-        - rid: 8926532958864539692
-        - rid: 8926532958864539693
-        - rid: 8926532958864539694
-        - rid: 8926532958864539695
-        - rid: 8926532958864539696
+        - rid: 8926533000844804141
+        - rid: 8926533000844804142
+        - rid: 8926533000844804143
+        - rid: 8926533000844804144
+        - rid: 8926533000844804145
+        - rid: 8926533000844804146
         history:
         - rid: 8926532929465614442
     - rid: 8926532948035895297
@@ -1849,56 +1853,56 @@ MonoBehaviour:
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 1244532880
+        Seed: 289883443
         m_Operators:
-        - rid: 8926532958864539697
-        - rid: 8926532958864539698
-        - rid: 8926532958864539699
-        - rid: 8926532958864539700
-        - rid: 8926532958864539701
-        - rid: 8926532958864539702
+        - rid: 8926533000844804147
+        - rid: 8926533000844804148
+        - rid: 8926533000844804149
+        - rid: 8926533000844804150
+        - rid: 8926533000844804151
+        - rid: 8926533000844804152
         history:
         - rid: 8926532948035895449
     - rid: 8926532948035895504
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 1609341364
+        Seed: 1790661653
         m_Operators:
-        - rid: 8926532958864539703
-        - rid: 8926532958864539704
-        - rid: 8926532958864539705
-        - rid: 8926532958864539706
-        - rid: 8926532958864539707
-        - rid: 8926532958864539708
+        - rid: 8926533000844804153
+        - rid: 8926533000844804154
+        - rid: 8926533000844804155
+        - rid: 8926533000844804156
+        - rid: 8926533000844804157
+        - rid: 8926533000844804158
         history:
         - rid: 8926532948035895504
     - rid: 8926532948035895511
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 126765870
+        Seed: 2759405431
         m_Operators:
-        - rid: 8926532958864539709
-        - rid: 8926532958864539710
-        - rid: 8926532958864539711
-        - rid: 8926532958864539712
-        - rid: 8926532958864539713
-        - rid: 8926532958864539714
+        - rid: 8926533000844804159
+        - rid: 8926533000844804160
+        - rid: 8926533000844804161
+        - rid: 8926533000844804162
+        - rid: 8926533000844804163
+        - rid: 8926533000844804164
         history:
         - rid: 8926532948035895511
     - rid: 8926532948035895518
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 3510800611
+        Seed: 2465825947
         m_Operators:
-        - rid: 8926532958864539715
-        - rid: 8926532958864539716
-        - rid: 8926532958864539717
-        - rid: 8926532958864539718
-        - rid: 8926532958864539719
-        - rid: 8926532958864539720
+        - rid: 8926533000844804165
+        - rid: 8926533000844804166
+        - rid: 8926533000844804167
+        - rid: 8926533000844804168
+        - rid: 8926533000844804169
+        - rid: 8926533000844804170
         history:
         - rid: 8926532948035895518
     - rid: 8926532958864539648
@@ -1915,786 +1919,6 @@ MonoBehaviour:
         - rid: 8926532958864539726
         history:
         - rid: 8926532958864539648
-    - rid: 8926532958864539649
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539650
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - Grey flat plastic
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539651
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539652
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539653
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539654
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539655
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539656
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - Grey flat plastic
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539657
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539658
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539659
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539660
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539661
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539662
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - Grey flat plastic
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539663
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539664
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539665
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539666
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539667
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539668
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - Grey flat plastic
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539669
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539670
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539671
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539672
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539673
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539674
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - Beige metal
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539675
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539676
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539677
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539678
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539679
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539680
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - Beige metal
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539681
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539682
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539683
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539684
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539685
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539686
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - Beige metal
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539687
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539688
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539689
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539690
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539691
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539692
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - Beige metal
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539693
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539694
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539695
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539696
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539697
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539698
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - light oak plank
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539699
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539700
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539701
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539702
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539703
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539704
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - light oak plank
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539705
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539706
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539707
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539708
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539709
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539710
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - light oak plank
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539711
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539712
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539713
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539714
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539715
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539716
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - light oak plank
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539717
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539718
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539719
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539720
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
     - rid: 8926532958864539721
       type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
@@ -3001,175 +2225,73 @@ MonoBehaviour:
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 0
+        Seed: 713036736
         m_Operators:
-        - rid: 8926532958864539749
-        - rid: 8926532958864539750
-        - rid: 8926532958864539751
-        - rid: 8926532958864539752
-        - rid: 8926532958864539753
-        - rid: 8926532958864539754
+        - rid: 8926533000844804171
+        - rid: 8926533000844804172
+        - rid: 8926533000844804173
+        - rid: 8926533000844804174
+        - rid: 8926533000844804175
+        - rid: 8926533000844804176
         history:
         - rid: 8926532958864539748
-    - rid: 8926532958864539749
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539750
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - light beige polished marbel
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539751
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539752
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539753
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539754
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
     - rid: 8926532958864539755
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 0
+        Seed: 2087095118
         m_Operators:
-        - rid: 8926532958864539756
-        - rid: 8926532958864539757
-        - rid: 8926532958864539758
-        - rid: 8926532958864539759
-        - rid: 8926532958864539760
-        - rid: 8926532958864539761
+        - rid: 8926533000844804177
+        - rid: 8926533000844804178
+        - rid: 8926533000844804179
+        - rid: 8926533000844804180
+        - rid: 8926533000844804181
+        - rid: 8926533000844804182
         history:
         - rid: 8926532958864539755
-    - rid: 8926532958864539756
-      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: GenerateOperator
-          version: 0.0.1
-          settings:
-          - TextToImage
-          - 4
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539757
-      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: PromptOperator
-          version: 0.0.1
-          settings:
-          - light beige polished marbel
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539758
-      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: NegativePromptOperator
-          version: 1.0
-          settings:
-          - 
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539759
-      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: LoraOperator
-          version: 0.0.1
-          settings:
-          - guid1
-          enabled: 0
-          assembly: 
-    - rid: 8926532958864539760
-      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: ReferenceOperator
-          version: 0.0.1
-          settings:
-          - 
-          - 
-          - 0
-          - 50
-          enabled: 1
-          assembly: 
-    - rid: 8926532958864539761
-      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
-      data:
-        m_OperatorData:
-          type: MaskOperator
-          version: 0.0.1
-          settings:
-          - 
-          - True
-          enabled: 0
-          assembly: 
     - rid: 8926532958864539762
       type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
       data:
         Guid: 
-        Seed: 0
+        Seed: 3577053499
         m_Operators:
-        - rid: 8926532958864539763
-        - rid: 8926532958864539764
-        - rid: 8926532958864539765
-        - rid: 8926532958864539766
-        - rid: 8926532958864539767
-        - rid: 8926532958864539768
+        - rid: 8926533000844804183
+        - rid: 8926533000844804184
+        - rid: 8926533000844804185
+        - rid: 8926533000844804186
+        - rid: 8926533000844804187
+        - rid: 8926533000844804188
         history:
         - rid: 8926532958864539762
-    - rid: 8926532958864539763
+    - rid: 8926532958864539769
+      type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
+      data:
+        Guid: 
+        Seed: 356268541
+        m_Operators:
+        - rid: 8926533000844804189
+        - rid: 8926533000844804190
+        - rid: 8926533000844804191
+        - rid: 8926533000844804192
+        - rid: 8926533000844804193
+        - rid: 8926533000844804194
+        history:
+        - rid: 8926532958864539769
+    - rid: 8926533000844804098
+      type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
+      data:
+        Guid: 
+        Seed: 0
+        m_Operators:
+        - rid: 8926533000844804195
+        - rid: 8926533000844804196
+        - rid: 8926533000844804197
+        - rid: 8926533000844804198
+        - rid: 8926533000844804199
+        - rid: 8926533000844804200
+        history:
+        - rid: 8926533000844804098
+    - rid: 8926533000844804099
       type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
@@ -3180,17 +2302,17 @@ MonoBehaviour:
           - 4
           enabled: 1
           assembly: 
-    - rid: 8926532958864539764
+    - rid: 8926533000844804100
       type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
           type: PromptOperator
           version: 0.0.1
           settings:
-          - light beige polished marbel
+          - Grey flat plastic
           enabled: 1
           assembly: 
-    - rid: 8926532958864539765
+    - rid: 8926533000844804101
       type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
@@ -3200,7 +2322,7 @@ MonoBehaviour:
           - 
           enabled: 1
           assembly: 
-    - rid: 8926532958864539766
+    - rid: 8926533000844804102
       type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
@@ -3210,7 +2332,7 @@ MonoBehaviour:
           - guid1
           enabled: 0
           assembly: 
-    - rid: 8926532958864539767
+    - rid: 8926533000844804103
       type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
@@ -3223,7 +2345,7 @@ MonoBehaviour:
           - 50
           enabled: 1
           assembly: 
-    - rid: 8926532958864539768
+    - rid: 8926533000844804104
       type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
@@ -3234,21 +2356,7 @@ MonoBehaviour:
           - True
           enabled: 0
           assembly: 
-    - rid: 8926532958864539769
-      type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
-      data:
-        Guid: 
-        Seed: 0
-        m_Operators:
-        - rid: 8926532958864539770
-        - rid: 8926532958864539771
-        - rid: 8926532958864539772
-        - rid: 8926532958864539773
-        - rid: 8926532958864539774
-        - rid: 8926532958864539775
-        history:
-        - rid: 8926532958864539769
-    - rid: 8926532958864539770
+    - rid: 8926533000844804105
       type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
@@ -3259,17 +2367,17 @@ MonoBehaviour:
           - 4
           enabled: 1
           assembly: 
-    - rid: 8926532958864539771
+    - rid: 8926533000844804106
       type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
           type: PromptOperator
           version: 0.0.1
           settings:
-          - light beige polished marbel
+          - Grey flat plastic
           enabled: 1
           assembly: 
-    - rid: 8926532958864539772
+    - rid: 8926533000844804107
       type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
@@ -3279,7 +2387,7 @@ MonoBehaviour:
           - 
           enabled: 1
           assembly: 
-    - rid: 8926532958864539773
+    - rid: 8926533000844804108
       type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
@@ -3289,7 +2397,7 @@ MonoBehaviour:
           - guid1
           enabled: 0
           assembly: 
-    - rid: 8926532958864539774
+    - rid: 8926533000844804109
       type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:
@@ -3302,7 +2410,1219 @@ MonoBehaviour:
           - 50
           enabled: 1
           assembly: 
-    - rid: 8926532958864539775
+    - rid: 8926533000844804110
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804111
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804112
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - Grey flat plastic
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804113
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804114
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804115
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804116
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804117
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804118
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - Grey flat plastic
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804119
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804120
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804121
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804122
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804123
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804124
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - Beige metal
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804125
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804126
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804127
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804128
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804129
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804130
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - Beige metal
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804131
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804132
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804133
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804134
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804135
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804136
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - Beige metal
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804137
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804138
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804139
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804140
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804141
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804142
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - Beige metal
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804143
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804144
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804145
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804146
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804147
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804148
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - light oak plank
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804149
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804150
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804151
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804152
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804153
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804154
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - light oak plank
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804155
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804156
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804157
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804158
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804159
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804160
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - light oak plank
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804161
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804162
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804163
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804164
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804165
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804166
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - light oak plank
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804167
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804168
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804169
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804170
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804171
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804172
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - light beige polished marbel
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804173
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804174
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804175
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804176
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804177
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804178
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - light beige polished marbel
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804179
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804180
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804181
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804182
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804183
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804184
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - light beige polished marbel
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804185
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804186
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804187
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804188
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804189
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804190
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - light beige polished marbel
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804191
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804192
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804193
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804194
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804195
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804196
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - metal painted light gray, smooth surface
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804197
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804198
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804199
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804200
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804201
+      type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
+      data:
+        Guid: 
+        Seed: 0
+        m_Operators:
+        - rid: 8926533000844804202
+        - rid: 8926533000844804203
+        - rid: 8926533000844804204
+        - rid: 8926533000844804205
+        - rid: 8926533000844804206
+        - rid: 8926533000844804207
+        history:
+        - rid: 8926533000844804201
+    - rid: 8926533000844804202
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804203
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - metal painted light gray, smooth surface
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804204
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804205
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804206
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804207
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804208
+      type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
+      data:
+        Guid: 
+        Seed: 0
+        m_Operators:
+        - rid: 8926533000844804209
+        - rid: 8926533000844804210
+        - rid: 8926533000844804211
+        - rid: 8926533000844804212
+        - rid: 8926533000844804213
+        - rid: 8926533000844804214
+        history:
+        - rid: 8926533000844804208
+    - rid: 8926533000844804209
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804210
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - metal painted light gray, smooth surface
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804211
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804212
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804213
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804214
+      type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: MaskOperator
+          version: 0.0.1
+          settings:
+          - 
+          - True
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804215
+      type: {class: ImageArtifact, ns: Unity.Muse.Texture, asm: Unity.Muse.Texture}
+      data:
+        Guid: 
+        Seed: 0
+        m_Operators:
+        - rid: 8926533000844804216
+        - rid: 8926533000844804217
+        - rid: 8926533000844804218
+        - rid: 8926533000844804219
+        - rid: 8926533000844804220
+        - rid: 8926533000844804221
+        history:
+        - rid: 8926533000844804215
+    - rid: 8926533000844804216
+      type: {class: GenerateOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: GenerateOperator
+          version: 0.0.1
+          settings:
+          - TextToImage
+          - 4
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804217
+      type: {class: PromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: PromptOperator
+          version: 0.0.1
+          settings:
+          - metal painted light gray, smooth surface
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804218
+      type: {class: NegativePromptOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: NegativePromptOperator
+          version: 1.0
+          settings:
+          - 
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804219
+      type: {class: LoraOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: LoraOperator
+          version: 0.0.1
+          settings:
+          - guid1
+          enabled: 0
+          assembly: 
+    - rid: 8926533000844804220
+      type: {class: ReferenceOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
+      data:
+        m_OperatorData:
+          type: ReferenceOperator
+          version: 0.0.1
+          settings:
+          - 
+          - 
+          - 0
+          - 50
+          enabled: 1
+          assembly: 
+    - rid: 8926533000844804221
       type: {class: MaskOperator, ns: Unity.Muse.Common, asm: Unity.Muse.Common}
       data:
         m_OperatorData:

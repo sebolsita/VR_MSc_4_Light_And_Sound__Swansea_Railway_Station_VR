@@ -15,7 +15,7 @@ D:/IMPERIUM/PROJEKTY/GRY/Unity_cleared/TheRealOneStationSwansea/Assignment_4_Lig
 -logFile
 Logs/AssetImportWorker1.log
 -srvPort
-53994
+51264
 Successfully changed project path to: D:/IMPERIUM/PROJEKTY/GRY/Unity_cleared/TheRealOneStationSwansea/Assignment_4_LightAndSound_SwanseaRailStation
 D:/IMPERIUM/PROJEKTY/GRY/Unity_cleared/TheRealOneStationSwansea/Assignment_4_LightAndSound_SwanseaRailStation
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,13 +49,13 @@ D:/IMPERIUM/PROJEKTY/GRY/Unity_cleared/TheRealOneStationSwansea/Assignment_4_Lig
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [23264] Host "[IP] 192.168.4.31 [Port] 0 [Flags] 2 [Guid] 3466838631 [EditorId] 3466838631 [Version] 1048832 [Id] WindowsEditor(7,HPS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
+Player connection [28024] Host "[IP] 192.168.4.31 [Port] 0 [Flags] 2 [Guid] 2074910000 [EditorId] 2074910000 [Version] 1048832 [Id] WindowsEditor(7,HPS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined multi-casting on [225.0.0.222:54997]...
 
-Player connection [23264] Host "[IP] 192.168.4.31 [Port] 0 [Flags] 2 [Guid] 3466838631 [EditorId] 3466838631 [Version] 1048832 [Id] WindowsEditor(7,HPS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [28024] Host "[IP] 192.168.4.31 [Port] 0 [Flags] 2 [Guid] 2074910000 [EditorId] 2074910000 [Version] 1048832 [Id] WindowsEditor(7,HPS) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" joined alternative multi-casting on [225.0.0.222:34997]...
 
 [Physics::Module] Initialized MultithreadedJobDispatcher with 15 workers.
-Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 10.04 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 1.11 ms.
+Library Redirect Path: Library/Refreshing native plugins compatible for Editor in 7.35 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 1.16 ms.
 Initialize engine version: 2023.1.19f1 (629111e352bc)
 [Subsystems] Discovering subsystems at path E:/Program Files/Unity/2023.1.19f1/Editor/Data/Resources/UnitySubsystems
 [Subsystems] Discovering subsystems at path D:/IMPERIUM/PROJEKTY/GRY/Unity_cleared/TheRealOneStationSwansea/Assignment_4_LightAndSound_SwanseaRailStation/Assets
@@ -70,7 +70,7 @@ Initialize mono
 Mono path[0] = 'E:/Program Files/Unity/2023.1.19f1/Editor/Data/Managed'
 Mono path[1] = 'E:/Program Files/Unity/2023.1.19f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'E:/Program Files/Unity/2023.1.19f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56480
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56020
 Begin MonoManager ReloadAssembly
 C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
 C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
@@ -85,43 +85,43 @@ C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
 Registering precompiled unity dll's ...
 Register platform support module: E:/Program Files/Unity/2023.1.19f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
 Register platform support module: E:/Program Files/Unity/2023.1.19f1/Editor/Data/PlaybackEngines/AndroidPlayer/UnityEditor.Android.Extensions.dll
-Registered in 0.003685 seconds.
-- Loaded All Assemblies, in  0.590 seconds
+Registered in 0.002499 seconds.
+- Loaded All Assemblies, in  0.398 seconds
 Native extension for Android target not found
-Android Extension - Scanning For ADB Devices 581 ms
+Android Extension - Scanning For ADB Devices 410 ms
 Native extension for WindowsStandalone target not found
 Mono: successfully reloaded assembly
 C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
 C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
-- Finished resetting the current domain, in  1.154 seconds
-Domain Reload Profiling: 1745ms
-	BeginReloadAssembly (210ms)
+- Finished resetting the current domain, in  0.790 seconds
+Domain Reload Profiling: 1188ms
+	BeginReloadAssembly (140ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (48ms)
-	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (60ms)
-	LoadAllAssembliesAndSetupDomain (256ms)
-		LoadAssemblies (211ms)
+	RebuildCommonClasses (43ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (42ms)
+	LoadAllAssembliesAndSetupDomain (158ms)
+		LoadAssemblies (140ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (250ms)
-			TypeCache.Refresh (249ms)
-				TypeCache.ScanAssembly (230ms)
+		AnalyzeDomain (154ms)
+			TypeCache.Refresh (153ms)
+				TypeCache.ScanAssembly (139ms)
 			ScanForSourceGeneratedMonoScriptInfo (1ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (1155ms)
+	FinalizeReload (791ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (1084ms)
+		SetupLoadedEditorAssemblies (733ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (757ms)
-			SetLoadedEditorAssemblies (5ms)
-			BeforeProcessingInitializeOnLoad (14ms)
-			ProcessInitializeOnLoadAttributes (206ms)
-			ProcessInitializeOnLoadMethodAttributes (102ms)
+			InitializePlatformSupportModulesInManaged (538ms)
+			SetLoadedEditorAssemblies (3ms)
+			BeforeProcessingInitializeOnLoad (6ms)
+			ProcessInitializeOnLoadAttributes (121ms)
+			ProcessInitializeOnLoadMethodAttributes (65ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -142,8 +142,8 @@ C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
 C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
 C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
 C:\build\output\Unity-Technologies\mono\mono\metadata\icall.c:1842:
-- Loaded All Assemblies, in  1.085 seconds
-Refreshing native plugins compatible for Editor in 4.70 ms, found 4 plugins.
+- Loaded All Assemblies, in  1.037 seconds
+Refreshing native plugins compatible for Editor in 5.83 ms, found 4 plugins.
 Native extension for Android target not found
 Native extension for WindowsStandalone target not found
 System.Reflection.TargetInvocationException: Exception has been thrown by the target of an invocation. ---> System.NullReferenceException: Object reference not set to an instance of an object
@@ -163,465 +163,47 @@ Package Manager log level set to [2]
 [Package Manager] Failed to launch server process. Reason: Unity was launched with the -noUpm command-line argument
 [Package Manager] Unable to send message (not connected to server process).
 [Package Manager] Cannot connect to Unity Package Manager local server
-- Finished resetting the current domain, in  1.005 seconds
-Domain Reload Profiling: 2090ms
-	BeginReloadAssembly (341ms)
+- Finished resetting the current domain, in  0.844 seconds
+Domain Reload Profiling: 1881ms
+	BeginReloadAssembly (326ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
+		DisableScriptedObjects (6ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (41ms)
-	RebuildCommonClasses (38ms)
+		CreateAndSetChildDomain (34ms)
+	RebuildCommonClasses (54ms)
 	RebuildNativeTypeToScriptingClass (16ms)
-	initialDomainReloadingComplete (30ms)
-	LoadAllAssembliesAndSetupDomain (658ms)
-		LoadAssemblies (363ms)
+	initialDomainReloadingComplete (24ms)
+	LoadAllAssembliesAndSetupDomain (616ms)
+		LoadAssemblies (355ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (421ms)
-			TypeCache.Refresh (375ms)
-				TypeCache.ScanAssembly (356ms)
-			ScanForSourceGeneratedMonoScriptInfo (34ms)
-			ResolveRequiredComponents (11ms)
-	FinalizeReload (1006ms)
+		AnalyzeDomain (398ms)
+			TypeCache.Refresh (357ms)
+				TypeCache.ScanAssembly (342ms)
+			ScanForSourceGeneratedMonoScriptInfo (28ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (844ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (673ms)
+		SetupLoadedEditorAssemblies (562ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (23ms)
+			InitializePlatformSupportModulesInManaged (22ms)
 			SetLoadedEditorAssemblies (4ms)
-			BeforeProcessingInitializeOnLoad (132ms)
-			ProcessInitializeOnLoadAttributes (434ms)
-			ProcessInitializeOnLoadMethodAttributes (79ms)
+			BeforeProcessingInitializeOnLoad (92ms)
+			ProcessInitializeOnLoadAttributes (371ms)
+			ProcessInitializeOnLoadMethodAttributes (71ms)
 			AfterProcessingInitializeOnLoad (2ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (10ms)
+		AwakeInstancesAfterBackupRestoration (7ms)
 Launched and connected shader compiler UnityShaderCompiler.exe after 0.01 seconds
-Refreshing native plugins compatible for Editor in 7.71 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 0.11 ms.
+Refreshing native plugins compatible for Editor in 3.93 ms, found 4 plugins.
+Preloading 2 native plugins for Editor in 0.06 ms.
 Unloading 5585 Unused Serialized files (Serialized files now loaded: 0)
 Unloading 103 unused Assets / (3.1 MB). Loaded Objects now: 6122.
-Memory consumption went from 257.2 MB to 254.1 MB.
-Total: 79.778400 ms (FindLiveObjects: 0.940900 ms CreateObjectMapping: 0.972900 ms MarkObjects: 76.262300 ms  DeleteObjects: 1.600500 ms)
+Memory consumption went from 256.8 MB to 253.7 MB.
+Total: 7.427100 ms (FindLiveObjects: 0.351000 ms CreateObjectMapping: 0.149200 ms MarkObjects: 6.074500 ms  DeleteObjects: 0.851100 ms)
 
-AssetImportParameters requested are different than current active one (requested -> active):
-  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
-  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
-  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
-  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
-  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
-  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
-  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
-  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
-  custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
-  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
-========================================================================
-Received Import Request.
-  Time since last request: 2717.083441 seconds.
-  path: Assets/white_paint_muse_Maps/ambientOcclusionMap.png
-  artifactKey: Guid(f51d5d020c4a59341a4f4b79614bfabd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/white_paint_muse_Maps/ambientOcclusionMap.png using Guid(f51d5d020c4a59341a4f4b79614bfabd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'd39c6ac266274641cecaa898666e5048') in 0.894759 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Light_sound_seb_train/Lightmap-0_comp_shadowmask.png
-  artifactKey: Guid(4e3f6bf36f1d83241b0704964665b0c5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Light_sound_seb_train/Lightmap-0_comp_shadowmask.png using Guid(4e3f6bf36f1d83241b0704964665b0c5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '4f477ca654b061d88e04f50ace221fe4') in 0.006493 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000059 seconds.
-  path: Assets/FencesPack/demoScene.unity
-  artifactKey: Guid(99a6be66f28e93644bf779dff6371e8a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/demoScene.unity using Guid(99a6be66f28e93644bf779dff6371e8a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '7be2ada7796ed0127016763c46a4201a') in 0.003987 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000075 seconds.
-  path: Assets/white_paint_muse_Maps/diffuseMap.png
-  artifactKey: Guid(76cc690f20abb194383ed37af926638f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/white_paint_muse_Maps/diffuseMap.png using Guid(76cc690f20abb194383ed37af926638f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'c758dcaf064174e9e0c8b165a547fd32') in 0.005818 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000063 seconds.
-  path: Assets/Swansea train_cut.wav
-  artifactKey: Guid(0ab508480a4e00f45aeb3ebcf2a2fdd7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Swansea train_cut.wav using Guid(0ab508480a4e00f45aeb3ebcf2a2fdd7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'ab70659e97b6d01c02ce5b445b8db00f') in 0.006127 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000053 seconds.
-  path: Assets/Station_old/station_tacks.fbx
-  artifactKey: Guid(3906d13cf6ac9704bb7142b3ce41dec1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Station_old/station_tacks.fbx using Guid(3906d13cf6ac9704bb7142b3ce41dec1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '1ca716f661b4de2007b109dd50051488') in 0.098207 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 842
-========================================================================
-Received Import Request.
-  Time since last request: 0.000024 seconds.
-  path: Assets/oak3_muse.mat
-  artifactKey: Guid(93491e74bb2396448bcc0a40e6f80c9c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/oak3_muse.mat using Guid(93491e74bb2396448bcc0a40e6f80c9c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'd59b94f468b6fbe345480ae61ab9b988') in 0.006086 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Light_sound_seb_train/Lightmap-2_comp_dir.png
-  artifactKey: Guid(4cdb7b4527351614ba4ec8f9c7cb1f55) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Light_sound_seb_train/Lightmap-2_comp_dir.png using Guid(4cdb7b4527351614ba4ec8f9c7cb1f55) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'ed4ce530e79601cecfa53d46224dd5ec') in 0.006858 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000104 seconds.
-  path: Assets/muse_marbel_Maps/baseMap.png
-  artifactKey: Guid(a2b54f7f466fa8d439e63ced6e8837b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/muse_marbel_Maps/baseMap.png using Guid(a2b54f7f466fa8d439e63ced6e8837b8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '0dd66d9516e0bdae3202595d5d705a3e') in 0.011761 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/white_paint_muse.mat
-  artifactKey: Guid(97cf38d4733e06f4f942efe3eb86e730) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/white_paint_muse.mat using Guid(97cf38d4733e06f4f942efe3eb86e730) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '8205a3e1580932c08cb5e88e5a53d0ad') in 0.006139 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/Light_sound_seb_train/Lightmap-6_comp_light.exr
-  artifactKey: Guid(3853bdf719687304a8a7d90cc5ce1f5c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Light_sound_seb_train/Lightmap-6_comp_light.exr using Guid(3853bdf719687304a8a7d90cc5ce1f5c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '55f44d2ff94dbc88ef88b29b8f050165') in 0.011917 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000482 seconds.
-  path: Assets/Platform/platform_structure_soloPart.fbx
-  artifactKey: Guid(10021232d76b6bb4c93e27274ea856b9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Platform/platform_structure_soloPart.fbx using Guid(10021232d76b6bb4c93e27274ea856b9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '06f4dd0731a7c7d2a4a7b4c995eb9ed4') in 0.016645 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 12
-========================================================================
-Received Import Request.
-  Time since last request: 0.000028 seconds.
-  path: Assets/Light_sound_seb_train/Lightmap-12_comp_light.exr
-  artifactKey: Guid(bd472cd8b7456854493587edbe2ff1d5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Light_sound_seb_train/Lightmap-12_comp_light.exr using Guid(bd472cd8b7456854493587edbe2ff1d5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '54ea562ed0e4f6671e6114862a751762') in 0.007925 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000200 seconds.
-  path: Assets/FencesPack/Prefabs/MeshFence1.prefab
-  artifactKey: Guid(824c00626fc1213408f78e303a5534c7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Prefabs/MeshFence1.prefab using Guid(824c00626fc1213408f78e303a5534c7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '8e465a5214de1505e394bd832fc0f8d5') in 0.013164 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/FencesPack/Prefabs/PO2.prefab
-  artifactKey: Guid(922b2fb5d589d4347a82d49b7e69f741) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Prefabs/PO2.prefab using Guid(922b2fb5d589d4347a82d49b7e69f741) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '35e09ccb6ea511e61eb3b4d844085367') in 0.018775 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000025 seconds.
-  path: Assets/Pavement textures pack/pavement 08_/pavement pattern 08.mat
-  artifactKey: Guid(0c26b4c84ab19ad458dc8f02ac1747a7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Pavement textures pack/pavement 08_/pavement pattern 08.mat using Guid(0c26b4c84ab19ad458dc8f02ac1747a7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '5d38adc01c5dac27bea22640863c3d0f') in 0.010712 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000031 seconds.
-  path: Assets/FencesPack/Prefabs/MetalSheetRackGreen.prefab
-  artifactKey: Guid(393b8577319d6704fbec38eb18f34f50) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Prefabs/MetalSheetRackGreen.prefab using Guid(393b8577319d6704fbec38eb18f34f50) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '74f08301a5ad62f9cf17d88007d1d240') in 0.010231 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 18
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/FencesPack/Materials/MetalGray.mat
-  artifactKey: Guid(309d54b9b3c7a6c4badb50ec6550789e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Materials/MetalGray.mat using Guid(309d54b9b3c7a6c4badb50ec6550789e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '3293080e4a0c1805c00322446dd7e3d1') in 0.008007 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/FencesPack/Prefabs/PO2Stand.prefab
-  artifactKey: Guid(bc5a201579a363146b969d1230227a04) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Prefabs/PO2Stand.prefab using Guid(bc5a201579a363146b969d1230227a04) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '7a708d88c1a6e0336e67fee9806b5956') in 0.008166 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/FencesPack/Prefabs/WoodSharpFence.prefab
-  artifactKey: Guid(7efe4dceef3587247b54b5501f1fb5ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Prefabs/WoodSharpFence.prefab using Guid(7efe4dceef3587247b54b5501f1fb5ab) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '38f4bf75d3d285b1a7cd436f529825fb') in 0.009469 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000017 seconds.
-  path: Assets/FencesPack/Materials/MetalRust.mat
-  artifactKey: Guid(d40e1e07e2f8dc542b7b3d0f514e3429) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Materials/MetalRust.mat using Guid(d40e1e07e2f8dc542b7b3d0f514e3429) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '3cf7cae483e52eef608a905494ce34b0') in 0.006001 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000380 seconds.
-  path: Assets/FencesPack/Prefabs/LowWoodFence.prefab
-  artifactKey: Guid(4290e3e14c014834cb98f84f1e4f93a3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Prefabs/LowWoodFence.prefab using Guid(4290e3e14c014834cb98f84f1e4f93a3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '66fa8efedc36fa31edc8db8f52ccc8a8') in 0.010916 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 8
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Light_sound_seb_train/Lightmap-7_comp_dir.png
-  artifactKey: Guid(077d6de53534d4d40a87264eb42298c8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Light_sound_seb_train/Lightmap-7_comp_dir.png using Guid(077d6de53534d4d40a87264eb42298c8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'ad8485676bd932dcf1937ffa46c83eb3') in 0.004975 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Platform/platform_stationName_baner.fbx
-  artifactKey: Guid(563626cb730c4ea45898c54d2d537ad1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Platform/platform_stationName_baner.fbx using Guid(563626cb730c4ea45898c54d2d537ad1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'dd0008928376efe44601ee686e89ad41') in 0.012390 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 17
-========================================================================
-Received Import Request.
-  Time since last request: 0.000030 seconds.
-  path: Assets/FencesPack/Prefabs/BrickDoorway.prefab
-  artifactKey: Guid(2e89d7af03d805743a562245da1d3354) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Prefabs/BrickDoorway.prefab using Guid(2e89d7af03d805743a562245da1d3354) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'cda79804d0c6e2d29c40d2b74ae6e351') in 0.020228 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 24
-========================================================================
-Received Import Request.
-  Time since last request: 0.174803 seconds.
-  path: Assets/Platform/GatesMaterials/ticketGate2_phong1_Normal.png
-  artifactKey: Guid(004cfc377478aed4fb86c52af811007e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Platform/GatesMaterials/ticketGate2_phong1_Normal.png using Guid(004cfc377478aed4fb86c52af811007e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '42fb722664c54035760b2146844be798') in 0.008599 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000050 seconds.
-  path: Assets/Train_wales/Materials/Carpet.005.mat
-  artifactKey: Guid(082264332688023458f7b16de14cddc3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Train_wales/Materials/Carpet.005.mat using Guid(082264332688023458f7b16de14cddc3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '8cac26bbe4edfdeee1472a4d73d4b733') in 0.007254 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000128 seconds.
-  path: Assets/FencesPack/Textures/Albedo/DiffuseGrayMetal.png
-  artifactKey: Guid(f1c45f8709a5d0a4da23071246ebaebd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Textures/Albedo/DiffuseGrayMetal.png using Guid(f1c45f8709a5d0a4da23071246ebaebd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'f2dea9f03977f216e00cdb23ad009b75') in 0.043971 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/FencesPack/Textures/SpecularMetalic/SpecularGrayMetal.png
-  artifactKey: Guid(2b06a9c189922f94d95efde719db91f1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Textures/SpecularMetalic/SpecularGrayMetal.png using Guid(2b06a9c189922f94d95efde719db91f1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '229a8afbba999478f9f630f2d2968559') in 0.020417 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000023 seconds.
-  path: Assets/Train_wales/Materials/Roof Black 2.mat
-  artifactKey: Guid(a9db8606ed5dc714b8c0fdec3d017df2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Train_wales/Materials/Roof Black 2.mat using Guid(a9db8606ed5dc714b8c0fdec3d017df2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '5a4ba1848f16b1b29cf5bb2769fb2197') in 0.005345 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000055 seconds.
-  path: Assets/FencesPack/Textures/Albedo/Wall_Concret_Diffuse.tif
-  artifactKey: Guid(2a685e8fdbcd6254597711350f9ea8f7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Textures/Albedo/Wall_Concret_Diffuse.tif using Guid(2a685e8fdbcd6254597711350f9ea8f7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'f76246f6f5ee882b434ec06a0d63b10b') in 0.019477 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/Train_wales/Materials/Yellow.002.mat
-  artifactKey: Guid(a3dd156290aa54649bd59683b4c4d93b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Train_wales/Materials/Yellow.002.mat using Guid(a3dd156290aa54649bd59683b4c4d93b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '0d21d540f77c2c8b729a8bc3575d68df') in 0.005752 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000018 seconds.
-  path: Assets/Station_old/station_oposite_no_roof_agregated/_metal-darkGray.001.mat
-  artifactKey: Guid(dc70844b7c2993f4e9a479307551d81e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Station_old/station_oposite_no_roof_agregated/_metal-darkGray.001.mat using Guid(dc70844b7c2993f4e9a479307551d81e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '3e3470ae2e45e14c95d2e80ce0a51861') in 0.007974 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000022 seconds.
-  path: Assets/Train_wales/Materials/Faded Glass.mat
-  artifactKey: Guid(e77fbb05776e0e247b3de3ef163a0a33) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Train_wales/Materials/Faded Glass.mat using Guid(e77fbb05776e0e247b3de3ef163a0a33) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '1a3e4d7d866d6f8251a45200426e516a') in 0.005189 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000029 seconds.
-  path: Assets/FencesPack/Textures/normal maps/WoodNormal.tif
-  artifactKey: Guid(a5d9eacfa443f994296424ed96e83310) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Textures/normal maps/WoodNormal.tif using Guid(a5d9eacfa443f994296424ed96e83310) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '8ff3be405c385dd580c0dec68e908bea') in 0.017076 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000035 seconds.
-  path: Assets/FencesPack/Textures/roughness/TexturesCom_Concrete_Base8_2x2_1K_roughness.tif
-  artifactKey: Guid(18b95141340eb8b489bc7e94fee1e4f9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Textures/roughness/TexturesCom_Concrete_Base8_2x2_1K_roughness.tif using Guid(18b95141340eb8b489bc7e94fee1e4f9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '1bc73c9224632adad6a1b71e57393bb6') in 0.015213 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000016 seconds.
-  path: Assets/Train_wales/Materials/Black Plastic 2.mat
-  artifactKey: Guid(eebd9d9c6e4988741a624f65b652c631) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Train_wales/Materials/Black Plastic 2.mat using Guid(eebd9d9c6e4988741a624f65b652c631) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '9573cef296a82787f6b6c2649fb4e754') in 0.007817 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000042 seconds.
-  path: Assets/FencesPack/Textures/Albedo/TexturesCom_Concrete_Base8_2x2_1K_albedo.tif
-  artifactKey: Guid(10a3f4f93b2a03543afa84142dda6cac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Textures/Albedo/TexturesCom_Concrete_Base8_2x2_1K_albedo.tif using Guid(10a3f4f93b2a03543afa84142dda6cac) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '281b249b018074183ac3820f7746464d') in 0.016003 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000021 seconds.
-  path: Assets/Station_old/station_oposite_no_roof_agregated/_color-yellow.001.mat
-  artifactKey: Guid(b7af42234f4ec6148a968b57d813fd7f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Station_old/station_oposite_no_roof_agregated/_color-yellow.001.mat using Guid(b7af42234f4ec6148a968b57d813fd7f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '49a403f624d3de9685671fa859910fe0') in 0.009064 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/FencesPack/Textures/Occlusion/Wall_Concret_ao.tif
-  artifactKey: Guid(fb3b8c34b8d397b43a15c799ed5c51f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Textures/Occlusion/Wall_Concret_ao.tif using Guid(fb3b8c34b8d397b43a15c799ed5c51f3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'b41bc021d09be994b0f36b2aa0952a79') in 0.013400 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000015 seconds.
-  path: Assets/Train_wales/Materials/Cream.002.mat
-  artifactKey: Guid(2b758453f43e73a44b6d337611855d06) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Train_wales/Materials/Cream.002.mat using Guid(2b758453f43e73a44b6d337611855d06) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: 'bd6d2811f0e1bec3916277faeb95ee5a') in 0.010213 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000020 seconds.
-  path: Assets/FencesPack/Textures/normal maps/Wall_BrickSovietSilicateNew_2.15x2_1K_normal.tif
-  artifactKey: Guid(64e82dbfc79bb204cb4f56c6480a44d4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Textures/normal maps/Wall_BrickSovietSilicateNew_2.15x2_1K_normal.tif using Guid(64e82dbfc79bb204cb4f56c6480a44d4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '31f976bde39be032fb0e786f2a17bd5a') in 0.016019 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.002910 seconds.
-  path: Assets/FencesPack/Textures/SpecularMetalic/SpecularRedMetal.png
-  artifactKey: Guid(7d70aaf29ad5a324895e3ca24f704542) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/FencesPack/Textures/SpecularMetalic/SpecularRedMetal.png using Guid(7d70aaf29ad5a324895e3ca24f704542) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '918a965281fc7c298d86d00a3c2a263f') in 0.013957 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 0.000048 seconds.
-  path: Assets/Platform/GatesMaterials/Materials/ticketGate2_phong1_Albedo.mat
-  artifactKey: Guid(b415485fdb24e044f97da91866c96add) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
-Start importing Assets/Platform/GatesMaterials/Materials/ticketGate2_phong1_Albedo.mat using Guid(b415485fdb24e044f97da91866c96add) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
- -> (artifact id: '0f9073486b88fd256a85d56a02688116') in 0.006426 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Prepare
-Refreshing native plugins compatible for Editor in 7.51 ms, found 4 plugins.
-Preloading 2 native plugins for Editor in 0.10 ms.
-Unloading 18 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 18 unused Assets / (3.1 MB). Loaded Objects now: 6122.
-Memory consumption went from 132.7 MB to 129.6 MB.
-Total: 10.758000 ms (FindLiveObjects: 0.634100 ms CreateObjectMapping: 0.631800 ms MarkObjects: 8.319100 ms  DeleteObjects: 1.171700 ms)
-
-Prepare: number of updated asset objects reloaded= 0
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
@@ -635,6 +217,960 @@ AssetImportParameters requested are different than current active one (requested
   custom:video-codec-MediaFoundation-h265: 746d11721c4dcdbdad8f713fa42b33f4 -> 
   custom:CustomObjectIndexerAttribute: d54d2f2da18e7612c182cf67624b6b12 -> 
   custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 4395.749160 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-51_comp_shadowmask.png
+  artifactKey: Guid(9171a8e151165724cb55e93334efcef6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-51_comp_shadowmask.png using Guid(9171a8e151165724cb55e93334efcef6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7ac592138baddf656e74031ae9519610') in 0.182020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-46_comp_shadowmask.png
+  artifactKey: Guid(a727280bbba92a746b4db93649fb73ca) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-46_comp_shadowmask.png using Guid(a727280bbba92a746b4db93649fb73ca) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bbfb87b859d70293856721546162ec97') in 0.005511 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-44_comp_light.exr
+  artifactKey: Guid(2841b3ddc880e5b4f9066264352ad293) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-44_comp_light.exr using Guid(2841b3ddc880e5b4f9066264352ad293) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fb8e02a25e0b6c251c2cc15c37327a25') in 0.004601 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-68_comp_shadowmask.png
+  artifactKey: Guid(79d83b8c7cac89e47bd26ae338ea7d3e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-68_comp_shadowmask.png using Guid(79d83b8c7cac89e47bd26ae338ea7d3e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '68c54c7b5a51b21b8654486266f3ef2c') in 0.005294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-41_comp_dir.png
+  artifactKey: Guid(b3ce9781ff5b36d46bd0d793f67f284b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-41_comp_dir.png using Guid(b3ce9781ff5b36d46bd0d793f67f284b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '65e23b577220c9a863f8d9ee1e83621d') in 0.003950 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-80_comp_light.exr
+  artifactKey: Guid(fee49b17ba743564280cbe87efa5ec7a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-80_comp_light.exr using Guid(fee49b17ba743564280cbe87efa5ec7a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f2f266bd3c89d497a43a044ac3f41d75') in 0.004255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-32_comp_dir.png
+  artifactKey: Guid(9fd3315777fb10d4bbee44b00211347a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-32_comp_dir.png using Guid(9fd3315777fb10d4bbee44b00211347a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ca4dba55659cb5527723ca97bf963d45') in 0.004106 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-73_comp_dir.png
+  artifactKey: Guid(468b0eb68ebc25e44806d53a76ff8179) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-73_comp_dir.png using Guid(468b0eb68ebc25e44806d53a76ff8179) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1266efd909721d509cdbe575d6455fb5') in 0.005194 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-50_comp_light.exr
+  artifactKey: Guid(ba5ea02376a0d504eb9ce52399874ea8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-50_comp_light.exr using Guid(ba5ea02376a0d504eb9ce52399874ea8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7e9ab7b09e3ccd0f82d64abf770fe1e6') in 0.004736 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-64_comp_shadowmask.png
+  artifactKey: Guid(177d6d94eeeb7354da7f4ee99c380b04) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-64_comp_shadowmask.png using Guid(177d6d94eeeb7354da7f4ee99c380b04) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bdccabd5604bc96136c89f89f168ccfd') in 0.004304 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000052 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-86_comp_shadowmask.png
+  artifactKey: Guid(aaa2561b63acbb74abc5e184c03effb6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-86_comp_shadowmask.png using Guid(aaa2561b63acbb74abc5e184c03effb6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3f888a009306227dafe3c9f9d7605e43') in 0.022624 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-17_comp_shadowmask.png
+  artifactKey: Guid(3555ce23e41d9f745a0e6527613dcfbd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-17_comp_shadowmask.png using Guid(3555ce23e41d9f745a0e6527613dcfbd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7ee5feb2bf8bdce4df57fcc74891c2de') in 0.003735 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-63_comp_shadowmask.png
+  artifactKey: Guid(5deec115b91029942811f2e89de27389) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-63_comp_shadowmask.png using Guid(5deec115b91029942811f2e89de27389) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7f56c6d77245ada66769659e3865adf2') in 0.004746 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-30_comp_dir.png
+  artifactKey: Guid(217c9c14062b48442a2767d1d5d4e320) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-30_comp_dir.png using Guid(217c9c14062b48442a2767d1d5d4e320) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ed13c0642815a13bbfa83f5f962839d1') in 0.003795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-84_comp_dir.png
+  artifactKey: Guid(fc11a84294c6b2b4c8040cd876d5292c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-84_comp_dir.png using Guid(fc11a84294c6b2b4c8040cd876d5292c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1cd4c1c6124bdc1aad5642c3090af2d5') in 0.004490 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-17_comp_dir.png
+  artifactKey: Guid(edefb89c12af4f34384a4c16eb94818a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-17_comp_dir.png using Guid(edefb89c12af4f34384a4c16eb94818a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '23e7cc098bd1e5490d447b3cba8809fb') in 0.003697 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-57_comp_shadowmask.png
+  artifactKey: Guid(d623debdb6dac564fa8c6fa78294ba36) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-57_comp_shadowmask.png using Guid(d623debdb6dac564fa8c6fa78294ba36) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bbeacc99286dbe9310d005332d9d0f57') in 0.005676 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000127 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-50_comp_shadowmask.png
+  artifactKey: Guid(9f86a6cbcc8cf6b44800b4293efc8565) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-50_comp_shadowmask.png using Guid(9f86a6cbcc8cf6b44800b4293efc8565) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8ddc6f51fcdbbd17daabe267465ba89a') in 0.003323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-74_comp_shadowmask.png
+  artifactKey: Guid(03dd3c729479ff4439ac8f3364e4a1d9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-74_comp_shadowmask.png using Guid(03dd3c729479ff4439ac8f3364e4a1d9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '18f149ec8ce7ca747eb3165759e28d54') in 0.005102 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-65_comp_dir.png
+  artifactKey: Guid(24d4930459eca834b8432c8e4fff19d8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-65_comp_dir.png using Guid(24d4930459eca834b8432c8e4fff19d8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6de21ebf9ea595863c833f25ef485e40') in 0.003358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-77_comp_shadowmask.png
+  artifactKey: Guid(899c6eec4add38c4dbb299ca7f0d11cd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-77_comp_shadowmask.png using Guid(899c6eec4add38c4dbb299ca7f0d11cd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '36ccc4b3eb95f9d2e27e6108b10600ba') in 0.004522 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-23_comp_light.exr
+  artifactKey: Guid(9e556cc53a31c7440acc55b743ddb61d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-23_comp_light.exr using Guid(9e556cc53a31c7440acc55b743ddb61d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '54c41022c535f6ea59c1a79e3562a6a9') in 0.004151 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-72_comp_dir.png
+  artifactKey: Guid(f6ad87d0d7c87b0469f1f4866bebc9d5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-72_comp_dir.png using Guid(f6ad87d0d7c87b0469f1f4866bebc9d5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '54eddf834b99faeee0781da5e85791df') in 0.003723 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-52_comp_shadowmask.png
+  artifactKey: Guid(a3e953589426626408133338d61c6cb3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-52_comp_shadowmask.png using Guid(a3e953589426626408133338d61c6cb3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c8bb113d4bed6c754151a04521105691') in 0.005264 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-82_comp_dir.png
+  artifactKey: Guid(85a25ccfbb26878438d6625ed8ad0610) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-82_comp_dir.png using Guid(85a25ccfbb26878438d6625ed8ad0610) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a9b103e08b1fb1519437302ed3bced87') in 0.004259 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000045 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-56_comp_light.exr
+  artifactKey: Guid(8b7c212880ed8e04ebed699d259db2d6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-56_comp_light.exr using Guid(8b7c212880ed8e04ebed699d259db2d6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '383a73f9d5e588e82899edd721d87cb5') in 0.003564 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-35_comp_light.exr
+  artifactKey: Guid(7634d4de142fab94daad3cb274c89e81) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-35_comp_light.exr using Guid(7634d4de142fab94daad3cb274c89e81) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '21dfc1f3110b65c21b6a92f3d296fbe6') in 0.004326 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-14_comp_dir.png
+  artifactKey: Guid(c94f9450b8f83c54d937a09c34d94b76) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-14_comp_dir.png using Guid(c94f9450b8f83c54d937a09c34d94b76) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c1411561e54dcb605e7cf918b901a9ea') in 0.003423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-14_comp_light.exr
+  artifactKey: Guid(218393a866c84c5438470bb024ef90d9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-14_comp_light.exr using Guid(218393a866c84c5438470bb024ef90d9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'dc02640dadf85641ad5b690b9e816059') in 0.004696 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-36_comp_dir.png
+  artifactKey: Guid(b024f5942985f7445824976f45dcd301) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-36_comp_dir.png using Guid(b024f5942985f7445824976f45dcd301) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2ef31d1f445b84b0e188167baf5ecfcd') in 0.003963 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000053 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-22_comp_shadowmask.png
+  artifactKey: Guid(c6adcb7c68a62ce40980934cf653d6c4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-22_comp_shadowmask.png using Guid(c6adcb7c68a62ce40980934cf653d6c4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '580746d51f5d096fed8ae255bb68f9ab') in 0.004520 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-18_comp_light.exr
+  artifactKey: Guid(03399e474401cc441a3f09967f95d622) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-18_comp_light.exr using Guid(03399e474401cc441a3f09967f95d622) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '51a40965b40bfb602d970b63b7275762') in 0.003547 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-32_comp_light.exr
+  artifactKey: Guid(1b30aeca352a88847acaa2d238be77be) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-32_comp_light.exr using Guid(1b30aeca352a88847acaa2d238be77be) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3d40d46ab1b1ea91a1445e693f5e8fdd') in 0.004679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-83_comp_dir.png
+  artifactKey: Guid(1dc64bfd2b1e0f542933b0ea694d032a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-83_comp_dir.png using Guid(1dc64bfd2b1e0f542933b0ea694d032a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0e203c8591b2a2776ce055e14f2ce743') in 0.003700 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-77_comp_light.exr
+  artifactKey: Guid(d2f44a604b8cbcc4f823fb927877e885) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-77_comp_light.exr using Guid(d2f44a604b8cbcc4f823fb927877e885) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6c077ff51b3dc0af123bdc3682f48c66') in 0.005834 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-37_comp_shadowmask.png
+  artifactKey: Guid(14a855ad6fbddeb40a3ca09ada95f6c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-37_comp_shadowmask.png using Guid(14a855ad6fbddeb40a3ca09ada95f6c2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '619ea7710169f4f2489b04b258f5336d') in 0.003956 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-48_comp_shadowmask.png
+  artifactKey: Guid(8137f6377ea00d845a426eb22ef0d931) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-48_comp_shadowmask.png using Guid(8137f6377ea00d845a426eb22ef0d931) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '08e60e5c5fd7d6b0685d84a35ad9e621') in 0.004984 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-62_comp_shadowmask.png
+  artifactKey: Guid(6187e56957b11c947bf0b069f0acecbf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-62_comp_shadowmask.png using Guid(6187e56957b11c947bf0b069f0acecbf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '70bb9719063ace971facf9363048bd71') in 0.005978 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-85_comp_dir.png
+  artifactKey: Guid(edcc683e4f54a0141ac0c739b50a8f6a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-85_comp_dir.png using Guid(edcc683e4f54a0141ac0c739b50a8f6a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fa7e64df4858c5755498d1b0d931cbc2') in 0.004620 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-68_comp_dir.png
+  artifactKey: Guid(ce2da0db78b835a45813a08e730db033) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-68_comp_dir.png using Guid(ce2da0db78b835a45813a08e730db033) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0aa28a6ccd0698ed297d97ce82651890') in 0.004505 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-38_comp_light.exr
+  artifactKey: Guid(c47b57c4c5ec4954787975ab9cbef822) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-38_comp_light.exr using Guid(c47b57c4c5ec4954787975ab9cbef822) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2a3f94309e3b11f5874ed48c5ae74855') in 0.005825 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-71_comp_light.exr
+  artifactKey: Guid(661fa07324bb4004e9af6edee66c3ddd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-71_comp_light.exr using Guid(661fa07324bb4004e9af6edee66c3ddd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '702cf9cb22c15e57ca0191ac42fd1cf6') in 0.005020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000016 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-60_comp_dir.png
+  artifactKey: Guid(8bc43b5aeb16a72438d2a67fd4249799) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-60_comp_dir.png using Guid(8bc43b5aeb16a72438d2a67fd4249799) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'aa9447946d805524dcf2a76a4524fa3a') in 0.005105 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-31_comp_light.exr
+  artifactKey: Guid(b67d2b55c1bc9d64ca6b676885b13cd3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-31_comp_light.exr using Guid(b67d2b55c1bc9d64ca6b676885b13cd3) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '35367db0b1ec94cbac389694aeec5e81') in 0.005425 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-40_comp_dir.png
+  artifactKey: Guid(6804b3a3882ef9440878f3c4248b413b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-40_comp_dir.png using Guid(6804b3a3882ef9440878f3c4248b413b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b64e9fa99155d85a3eb64ab13db7333b') in 0.003970 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-25_comp_dir.png
+  artifactKey: Guid(4abea07f01b12744f8a366076616b396) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-25_comp_dir.png using Guid(4abea07f01b12744f8a366076616b396) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ac4f8b0dd42bd064d7981eed9cb23abe') in 0.005306 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-32_comp_shadowmask.png
+  artifactKey: Guid(0d2ddd12393a8d441a36e1ee7650093b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-32_comp_shadowmask.png using Guid(0d2ddd12393a8d441a36e1ee7650093b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1f1eecb1eb703db7498071fc6e90b89a') in 0.005255 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-58_comp_light.exr
+  artifactKey: Guid(d4e9492166378b04b85b1ac4f83cfbc5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-58_comp_light.exr using Guid(d4e9492166378b04b85b1ac4f83cfbc5) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '6c34a750f0e1dfb234a2d82d00d32f6e') in 0.005067 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000015 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-69_comp_dir.png
+  artifactKey: Guid(d1384abca28011d448adc2b542726e8b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-69_comp_dir.png using Guid(d1384abca28011d448adc2b542726e8b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'f3df508f0756cb49eabde98bfa036bea') in 0.006042 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-21_comp_dir.png
+  artifactKey: Guid(9a9dc4db6f5eb2e40b30d694a2752d3d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-21_comp_dir.png using Guid(9a9dc4db6f5eb2e40b30d694a2752d3d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '2c2ffb4ecd256dee75220432f3c414fd') in 0.005503 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-47_comp_light.exr
+  artifactKey: Guid(6ee68bd5f572f0049a02f0dda74f2b31) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-47_comp_light.exr using Guid(6ee68bd5f572f0049a02f0dda74f2b31) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '792cfd7b526fe091cd9065a53d0000d0') in 0.006013 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-18_comp_shadowmask.png
+  artifactKey: Guid(59fc696f609ac5d47bc29d92bf830eda) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-18_comp_shadowmask.png using Guid(59fc696f609ac5d47bc29d92bf830eda) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '1c5a28dc75e15de3124b1ee3485f9a5c') in 0.006450 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-61_comp_shadowmask.png
+  artifactKey: Guid(8cb5b98be84e0234baf8e7da31fa4b95) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-61_comp_shadowmask.png using Guid(8cb5b98be84e0234baf8e7da31fa4b95) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3933a854379303333693dda3a86603bd') in 0.028623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-16_comp_shadowmask.png
+  artifactKey: Guid(2524743566d4a7248a1203f308b00458) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-16_comp_shadowmask.png using Guid(2524743566d4a7248a1203f308b00458) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9d4c1808c6f28fd052f23f5906f136b4') in 0.005329 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000042 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-18_comp_dir.png
+  artifactKey: Guid(3209505daca13864fbd6d6fa790c618f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-18_comp_dir.png using Guid(3209505daca13864fbd6d6fa790c618f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a55fac81c853d5877a6bd5d08e206dcf') in 0.005273 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-80_comp_shadowmask.png
+  artifactKey: Guid(7f0e4b2d675588d4081c26961380fff8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-80_comp_shadowmask.png using Guid(7f0e4b2d675588d4081c26961380fff8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7bf79c9321f6dd5ac933a31199f4cb44') in 0.006782 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000076 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-49_comp_dir.png
+  artifactKey: Guid(bbb371a32d437ac429355f79065ea6d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-49_comp_dir.png using Guid(bbb371a32d437ac429355f79065ea6d1) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7ce24c109ceaf62b7e2988ff8d106dbc') in 0.005576 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-24_comp_dir.png
+  artifactKey: Guid(003737fbf1e51c947af40c0ebcaf795f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-24_comp_dir.png using Guid(003737fbf1e51c947af40c0ebcaf795f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '83dee3b4862f3cc0f49a09bb62fd5a67') in 0.004513 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-60_comp_light.exr
+  artifactKey: Guid(51ea7ea0e803e4048bf25f98cc51d19e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-60_comp_light.exr using Guid(51ea7ea0e803e4048bf25f98cc51d19e) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a28ad3ce2d195a923ab7e732943ce569') in 0.005341 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-28_comp_shadowmask.png
+  artifactKey: Guid(087bbc20884edf64691e07bd027f4adb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-28_comp_shadowmask.png using Guid(087bbc20884edf64691e07bd027f4adb) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7e85f8b532675b40c9ac473019d554d6') in 0.004857 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-78_comp_dir.png
+  artifactKey: Guid(49ee90c06565be14eafa1ae7ec82baf2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-78_comp_dir.png using Guid(49ee90c06565be14eafa1ae7ec82baf2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '291598843bea54d1a6c33f4f0d2f9dce') in 0.006024 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-86_comp_light.exr
+  artifactKey: Guid(a24ff7c39ccc7ac43bf03176d953514f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-86_comp_light.exr using Guid(a24ff7c39ccc7ac43bf03176d953514f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a6281ed0e86925f5263593f60bf368d7') in 0.003369 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-70_comp_dir.png
+  artifactKey: Guid(488bf76c251172c419f10f23f0e50791) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-70_comp_dir.png using Guid(488bf76c251172c419f10f23f0e50791) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9672f50ba5a9d36e7fc2a90fbddcc838') in 0.004226 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-31_comp_shadowmask.png
+  artifactKey: Guid(7a388ae12a081144abf09ca7b96b2779) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-31_comp_shadowmask.png using Guid(7a388ae12a081144abf09ca7b96b2779) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '762186b6ae499104fba55e309e185361') in 0.003964 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000014 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-61_comp_light.exr
+  artifactKey: Guid(64133a0f9a522c64186da9b8f8bf4930) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-61_comp_light.exr using Guid(64133a0f9a522c64186da9b8f8bf4930) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'b936082b0e6d34a22e0734b28dcbfae3') in 0.003808 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-30_comp_shadowmask.png
+  artifactKey: Guid(bc55b31f3afe0a244bd6bd1e67c111e4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-30_comp_shadowmask.png using Guid(bc55b31f3afe0a244bd6bd1e67c111e4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '186656e947bab6853a9e94257941b7db') in 0.003706 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-28_comp_light.exr
+  artifactKey: Guid(c455e905200f58945843d29b120b1b73) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-28_comp_light.exr using Guid(c455e905200f58945843d29b120b1b73) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'a1df07a923f4ea8b69ff750b0070b234') in 0.004983 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-61_comp_dir.png
+  artifactKey: Guid(80b27ea6fb4e98b47a205f8045fff921) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-61_comp_dir.png using Guid(80b27ea6fb4e98b47a205f8045fff921) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c976832d3b11e3ad2df62bee0e9d9f72') in 0.005973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-15_comp_light.exr
+  artifactKey: Guid(1d3fc56afde973d4e8eb7c14d2475245) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-15_comp_light.exr using Guid(1d3fc56afde973d4e8eb7c14d2475245) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'fe37a8ff96d967bae824b885d9c478ff') in 0.004242 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000044 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-24_comp_shadowmask.png
+  artifactKey: Guid(ae22a47e9870da54c885258c65f091b0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-24_comp_shadowmask.png using Guid(ae22a47e9870da54c885258c65f091b0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8b6dc40fe5223b651d959f98a262558a') in 0.005392 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-84_comp_light.exr
+  artifactKey: Guid(946c4faf6b586ab4da3ea0cbb32993b2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-84_comp_light.exr using Guid(946c4faf6b586ab4da3ea0cbb32993b2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '14d310c31cc11a0d9db909380c295f6f') in 0.005287 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-65_comp_light.exr
+  artifactKey: Guid(23124397cd84faa4195273ccfa0215fd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-65_comp_light.exr using Guid(23124397cd84faa4195273ccfa0215fd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '19220f9705aecd6922320f62e9778b8f') in 0.006611 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000048 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-27_comp_dir.png
+  artifactKey: Guid(1e6df827e84c5104784d83b3aff8719f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-27_comp_dir.png using Guid(1e6df827e84c5104784d83b3aff8719f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'be7c6cd6b87003684e07d14b8025f519') in 0.007390 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000063 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-47_comp_dir.png
+  artifactKey: Guid(17e800f0836afe845b020f506aa22c79) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-47_comp_dir.png using Guid(17e800f0836afe845b020f506aa22c79) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e1f065c71982fe896d74efbc643f83f7') in 0.007459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000051 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-45_comp_shadowmask.png
+  artifactKey: Guid(7c819bf4088669646bbe60e3ba13fd9f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-45_comp_shadowmask.png using Guid(7c819bf4088669646bbe60e3ba13fd9f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '67fb99727968ec63dbbccb4e12b8286b') in 0.007196 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-33_comp_dir.png
+  artifactKey: Guid(642bd54468d8db44c8d8e13d9220d810) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-33_comp_dir.png using Guid(642bd54468d8db44c8d8e13d9220d810) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '49bafc05862d9b18dbd95ef0d919691f') in 0.009249 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000054 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-45_comp_light.exr
+  artifactKey: Guid(64f51fa5ef3ac51409e0110e948dafbf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-45_comp_light.exr using Guid(64f51fa5ef3ac51409e0110e948dafbf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4f8cd25cfb1d001c8fba41e58ce9c0fe') in 0.007257 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000046 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-38_comp_dir.png
+  artifactKey: Guid(a03112574a8c7a640aca52e0743d41c4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-38_comp_dir.png using Guid(a03112574a8c7a640aca52e0743d41c4) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'e72735aa222880ee50abccc779238609') in 0.007639 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-83_comp_light.exr
+  artifactKey: Guid(fa5b9e36bf3073746a9cf6e764856b0b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-83_comp_light.exr using Guid(fa5b9e36bf3073746a9cf6e764856b0b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '92e7e3953db65a5e7c6d0e534a155913') in 0.007934 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000088 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-65_comp_shadowmask.png
+  artifactKey: Guid(d23877661e6b7054dbd4553697f70a9f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-65_comp_shadowmask.png using Guid(d23877661e6b7054dbd4553697f70a9f) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ec092e07c2526059673f545542745db2') in 0.008623 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-27_comp_shadowmask.png
+  artifactKey: Guid(08d1370fa914def429590aaa613ba8ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-27_comp_shadowmask.png using Guid(08d1370fa914def429590aaa613ba8ce) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ea7f0d32d596d32fb26e75f993786404') in 0.009294 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-60_comp_shadowmask.png
+  artifactKey: Guid(a6f4079c17032f341acb09bc77fff8dd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-60_comp_shadowmask.png using Guid(a6f4079c17032f341acb09bc77fff8dd) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4da57d501cabd35208c073f7f3a66dde') in 0.008450 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-52_comp_dir.png
+  artifactKey: Guid(8940f6ff959847b41a3534ddabb9a4be) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-52_comp_dir.png using Guid(8940f6ff959847b41a3534ddabb9a4be) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '3acc8a8fe98a80efd8cbcc887d2ff46b') in 0.010006 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-76_comp_light.exr
+  artifactKey: Guid(f33ca97d91e89854fb2cce3dc0672afc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-76_comp_light.exr using Guid(f33ca97d91e89854fb2cce3dc0672afc) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '435a60c64ea8452644846af77befd711') in 0.007446 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000057 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-82_comp_shadowmask.png
+  artifactKey: Guid(f761e90d12e1f7e40ae62de2495762a2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-82_comp_shadowmask.png using Guid(f761e90d12e1f7e40ae62de2495762a2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '119bfd2fa397be465d33cb3a33d9d7be') in 0.004853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-70_comp_shadowmask.png
+  artifactKey: Guid(12676cb2dad21a0479e07f4e96aac7a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-70_comp_shadowmask.png using Guid(12676cb2dad21a0479e07f4e96aac7a8) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5d7bbd1e624939e28e8ea97ad91a7b6b') in 0.009031 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-28_comp_dir.png
+  artifactKey: Guid(479d81d25db091e4d994d683de096f2b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-28_comp_dir.png using Guid(479d81d25db091e4d994d683de096f2b) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'df5a9ab52d7ab27be41521ee783b3dbd') in 0.006284 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-75_comp_dir.png
+  artifactKey: Guid(7d7b58ea478121c44a8aa1a7dae4cd51) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-75_comp_dir.png using Guid(7d7b58ea478121c44a8aa1a7dae4cd51) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '89133f24b98bb6a055fa777442811379') in 0.008110 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-64_comp_light.exr
+  artifactKey: Guid(52a86b213aca07b42b5f64ae97f5d4d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-64_comp_light.exr using Guid(52a86b213aca07b42b5f64ae97f5d4d2) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '19d3da67f5170f781ed1e305a7dc1e6c') in 0.011102 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-69_comp_shadowmask.png
+  artifactKey: Guid(89fbf26c211717443aa5edf0d5ff2171) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-69_comp_shadowmask.png using Guid(89fbf26c211717443aa5edf0d5ff2171) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5d210218f5687a6266edf22ee8ed7002') in 0.009942 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000049 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-85_comp_shadowmask.png
+  artifactKey: Guid(cc725807dfe28e14f86914720b368d0d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-85_comp_shadowmask.png using Guid(cc725807dfe28e14f86914720b368d0d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '5b277d0b7dc421ac1ee91dfe421d440f') in 0.009068 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-68_comp_light.exr
+  artifactKey: Guid(8d978be341cd4ac4396733251d24a449) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-68_comp_light.exr using Guid(8d978be341cd4ac4396733251d24a449) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '604c21a1a9333a7800f60aa80800591c') in 0.009596 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-26_comp_shadowmask.png
+  artifactKey: Guid(5d3ee9922a7e44c41a52fe8bc6e4703a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-26_comp_shadowmask.png using Guid(5d3ee9922a7e44c41a52fe8bc6e4703a) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '9a4abb13d92234d6c6e03c3f6f314a4e') in 0.009910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-59_comp_light.exr
+  artifactKey: Guid(c4be0f7c0d9a83e41a9f27bfd0eec785) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-59_comp_light.exr using Guid(c4be0f7c0d9a83e41a9f27bfd0eec785) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ff47d8aab53d2e8ee59bf5aaa9af2d32') in 0.010972 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-81_comp_shadowmask.png
+  artifactKey: Guid(3b6994617b5314e42a3fa6852c3b6e35) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-81_comp_shadowmask.png using Guid(3b6994617b5314e42a3fa6852c3b6e35) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '14dbe01e840798fea7a291319b0f414d') in 0.038758 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-53_comp_shadowmask.png
+  artifactKey: Guid(bd8227c0364237f409db11eeea4d41cf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-53_comp_shadowmask.png using Guid(bd8227c0364237f409db11eeea4d41cf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '58b5246f51cc1733c6a003405501b2ad') in 0.008507 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-57_comp_dir.png
+  artifactKey: Guid(c72c6274e4475144989b063d829d2af9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-57_comp_dir.png using Guid(c72c6274e4475144989b063d829d2af9) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'ee3e74b5c8298a0bf6aa9edb6c8ebc44') in 0.007800 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-58_comp_dir.png
+  artifactKey: Guid(2c2751fe15edafb428a289122d32294c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-58_comp_dir.png using Guid(2c2751fe15edafb428a289122d32294c) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '76fd5bd850af97a1c42821ec27b58678') in 0.005989 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-40_comp_light.exr
+  artifactKey: Guid(e04c3efbdaadb1642a635c230743c23d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-40_comp_light.exr using Guid(e04c3efbdaadb1642a635c230743c23d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '4f1cdcc15b999999c27a8846c8a92575') in 0.005452 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000056 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-53_comp_light.exr
+  artifactKey: Guid(66558d514c2987a48bfa387207378ef6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-53_comp_light.exr using Guid(66558d514c2987a48bfa387207378ef6) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '7e00e797151001db107826537e3ae743') in 0.005806 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-62_comp_light.exr
+  artifactKey: Guid(836cb6c1dbd891e4f883e8799c0dfc76) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-62_comp_light.exr using Guid(836cb6c1dbd891e4f883e8799c0dfc76) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'c5e697f1213d8cb4b098db340eac86ab') in 0.005658 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-17_comp_light.exr
+  artifactKey: Guid(538a4b5d83800054fa363ed261467c1d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-17_comp_light.exr using Guid(538a4b5d83800054fa363ed261467c1d) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'bba8216a8ecff6a040c6279dd3781405') in 0.004553 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-67_comp_dir.png
+  artifactKey: Guid(08072dbb8934dfb4e8241c139255ffaf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-67_comp_dir.png using Guid(08072dbb8934dfb4e8241c139255ffaf) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '0c1e056fd97aa1d9fe52abcf30f831d3') in 0.004887 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-27_comp_light.exr
+  artifactKey: Guid(9022e375a9e7330419f5079a11ad2b70) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-27_comp_light.exr using Guid(9022e375a9e7330419f5079a11ad2b70) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '8638b03d12a8e7138b8ba07513b73fbf') in 0.004839 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-79_comp_shadowmask.png
+  artifactKey: Guid(1e02cb57f0ab624469f108a0b13daaf0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-79_comp_shadowmask.png using Guid(1e02cb57f0ab624469f108a0b13daaf0) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: 'd9759399224eaaaebd5419c35dccaf4f') in 0.005528 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/Light_sound_seb_train/Lightmap-19_comp_dir.png
+  artifactKey: Guid(c7ef6e6e9b6858d4c8d79480e13102d7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5)
+Start importing Assets/Light_sound_seb_train/Lightmap-19_comp_dir.png using Guid(c7ef6e6e9b6858d4c8d79480e13102d7) Importer(2089858483,934ff659095e30574adcf32a4c2f97b5) Generated GUIDs only implemented for interfaces!
+ -> (artifact id: '57e063b7364b4f718db140bef0b52c58') in 0.005414 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 1
 Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
 AssetImportWorker is now disconnected from the server
 Process exiting
