@@ -37,7 +37,7 @@
 <h3 align="center">Light And Sound - Swansea Railway Station</h3>
 
   <p align="center">
-    4th project done during MSc Virtual Reality studies.
+    This is the 4th project in my MSc Virtual Reality studies, aimed at building a 3D environment in Unity. <br> The focus is on achieving realism to enhance user experience (UX) and immersion.
     <br />
     <a href="https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR"><strong>Explore the files »</strong></a>
     <br />
@@ -85,43 +85,40 @@
 
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
-## Key Goals
 
-- **Realism and Immersion**
-  - The environment should offer a high degree of realism, engaging users through:
-    - Superior graphics to make even mundane scenes captivating.
-    - Well-designed lighting to enhance the scene's authenticity.
-    - High-quality sound effects to improve the overall user experience.
+## Assignment Objectives
 
-- **Lighting and Sound Effects**
-  - Focus on lighting and sound design, using:
-    - Directional sound to mimic real-life auditory experiences.
-    - Reverb zones for richer audio environments.
-    - Realistic baked lighting for natural-looking illumination.
+- **Achieve Realism**: Create a Unity-based 3D environment that significantly enhances UX and user immersion through:
+  - **Engaging Scene Content**: The scene can be as ordinary as a waiting room but must captivate users through its realism.
+  - **Thoughtful Design**: Incorporate lighting and sound effects designed to achieve a high level of realism within a performance-optimized application.
 
-- **Interactivity**
-  - Incorporate elements to strengthen the user's sense of presence, including:
-    - NPCs (Non-Player Characters) to populate the environment.
-    - A/V interactable objects, such as light switches or radios, for enhanced interaction.
+- **Incorporate Interactive Elements**:
+  - **Non-Player Characters (NPCs)**: Populate the scene with NPCs to add life and interaction.
+  - **A/V Objects**: Use interactable audio/visual objects, such as light switches or radios, to enhance realism.
+  - **Directional Sound and Reverb Zones**: Implement sound strategically to mimic real-world auditory experiences.
+  - **Realistic Baked Lighting**: Utilize baked lighting techniques for a more natural and immersive environment.
 
-- **Use of Physically Scanned Items**
-  - Enhance scene depth and authenticity by incorporating at least one physically scanned item, adding to the environment's realism.
+- **Use of Physically Scanned Items**: 
+  - Integrate at least one physically scanned item into the scene, whether as an NPC or another object, to further authenticity.
 
-- **Performance Optimization**
-  - Ensure the application is optimized for performance, focusing on:
-    - Responsiveness to ensure quick application reaction to user input.
-    - Efficiency to maintain smooth operation on target hardware.
+- **Demonstration Video**: 
+  - Produce a video showcasing the scene and the implemented audio/visual effects.
 
-- **Documentation and Reflection**
-  - Submit documentation detailing the project's development and findings, including:
-    - A 2-page report on a chosen research topic.
-    - A 1-page reflection on the project's development process and outcomes.
+## Research and Documentation
 
-- **Assessment Awareness**
-  - Early familiarization with the marking rubric to guide the project towards achieving the best possible mark.
+- **2 Page Report**: Conduct research and write a report focusing on one of the following areas:
+  - Current or future graphics techniques in VR rendering.
+  - The use of sound in immersive applications.
+  - Performance and optimization techniques in VR applications.
 
-- **Showcase Video**
-  - A video demonstration highlighting the project's realism and immersion efforts through the scene and the A/V effects used.
+- **1 Page Reflection**: Reflect on the project, detailing the development process, challenges faced, and lessons learned.
+
+## Consultation of Marking Rubric
+
+- Review the marking rubric at an early stage to ensure the project aligns with the assessment criteria and maximizes the potential grade.
+
+This project allowed me to apply and expand upon the VR skills and knowledge acquired during my MSc Virtual Reality studies, with a specific focus on creating immersive and realistic 3D environments.
+
 
 
 
