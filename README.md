@@ -1,28 +1,12 @@
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
-<!--
-*** Thanks for checking out the Best-README-Template. If you have a suggestion
-*** that would make this better, please fork the repo and create a pull request
-*** or simply open an issue with the tag "enhancement".
-*** Don't forget to give the project a star!
-*** Thanks again! Now go create something AMAZING! :D
--->
-
-
 
 <!-- PROJECT SHIELDS -->
-<!--
-*** I'm using markdown "reference style" links for readability.
-*** Reference links are enclosed in brackets [ ] instead of parentheses ( ).
-*** See the bottom of this document for the declaration of the reference variables
-*** for contributors-url, forks-url, etc. This is an optional, concise syntax you may use.
-*** https://www.markdownguide.org/basic-syntax/#reference-style-links
--->
 [![Contributors][contributors-shield]][contributors-url]
 [![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![LinkedInCompany][linkedinCompany-shield]][linkedinCompany-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 
@@ -59,19 +43,19 @@
     <li>
       <a href="#about-the-project">About The Project</a>
       <ul>
+        <li><a href="#assignment-objectives">Assignment Objectives</a></li>
         <li><a href="#built-with">Built With</a></li>
       </ul>
     </li>
     <li>
-      <a href="#getting-started">Getting Started</a>
+      <a href="#installation-and-running-the-application">Getting Started</a>
       <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
+        <li><a href="#windows-instructions">Windows</a></li>
+        <li><a href="#oculus-quest-standalone-instructions">Oculus Stand-Alone (Android)</a></li>
       </ul>
     </li>
-    <li><a href="#usage">Usage</a></li>
+    <li><a href="#features">Features</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
     <li><a href="#acknowledgments">Acknowledgments</a></li>
@@ -86,7 +70,7 @@
 [![Product Name Screen Shot][product-screenshot]](https://example.com)
 
 
-## Assignment Objectives
+### Assignment Objectives
 
 - **Achieve Realism**: Create a Unity-based 3D environment that significantly enhances UX and user immersion through:
   - **Engaging Scene Content**: The scene can be as ordinary as a waiting room but must captivate users through its realism.
@@ -104,14 +88,14 @@
 - **Demonstration Video**: 
   - Produce a video showcasing the scene and the implemented audio/visual effects.
 
-## Research and Documentation
+- **Research and Documentation**:
 
-- **2 Page Report**: Conduct research and write a report focusing on one of the following areas:
-  - Current or future graphics techniques in VR rendering.
-  - The use of sound in immersive applications.
-  - Performance and optimization techniques in VR applications.
+  - **2 Page Report**: Conduct research and write a report focusing on one of the following areas:
+    - Current or future graphics techniques in VR rendering.
+    - The use of sound in immersive applications.
+    - Performance and optimization techniques in VR applications.
 
-- **1 Page Reflection**: Reflect on the project, detailing the development process, challenges faced, and lessons learned.
+  - **1 Page Reflection**: Reflect on the project, detailing the development process, challenges faced, and lessons learned.
 
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -146,7 +130,8 @@
 
 Ensure your VR headset is correctly configured and recognized by your PC. Refer to the headset's user manual or official support channels for specific setup instructions or troubleshooting steps.
 
-### Oculus Quest Instructions (Using SideQuest)
+### Oculus Quest StandAlone Instructions
+  (Using SideQuest)
 
 To install and run applications not available on the Oculus Store, you can use SideQuest. This is a useful tool for managing, installing, and browsing apps for Oculus Quest. Here's how to get started:
 
@@ -174,14 +159,15 @@ To install and run applications not available on the Oculus Store, you can use S
 Remember, applications installed through SideQuest or directly via APK may not appear in your regular Oculus Quest library. Always check the 'Unknown Sources' list to find and run these apps.
 
 
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
 
 <!-- USAGE EXAMPLES -->
-## Usage
+## Features
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Space to show useful examples of how a project can be used. Additional screenshots, code examples and demos etc. Link to more resources.
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -211,7 +197,7 @@ See the [open issues](https://github.com/github_username/repo_name/issues) for a
 <!-- LICENSE -->
 ## License
 
-Distributed under the License. See `LICENSE.txt` for more information.
+Distributed under the CC BY-NC-ND 4.0 License. See `LICENSE.txt` for more information.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -220,7 +206,9 @@ Distributed under the License. See `LICENSE.txt` for more information.
 <!-- CONTACT -->
 ## Contact
 
-StarSky Productions - [@LinkedIn](https://www.linkedin.com/company/starskyproductions/) - email@email_client.com
+StarSky Productions - sebolsita@int.pl
+  <br>[![LinkedInCompany][linkedinCompany-shield]][linkedinCompany-url]
+  <br>[![LinkedIn][linkedin-shield]][linkedin-url]
 
 Project Link: [https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/](https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/)
 
@@ -262,13 +250,15 @@ Project Link: [https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Ra
 [issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
 [issues-url]: https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/issues
 [license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
-[license-url]: https://github.com/github_username/repo_name/blob/master/LICENSE.txt
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
-[linkedin-url]: https://linkedin.com/in/linkedin_username
+[license-url]: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
+[linkedin-shield]: https://img.shields.io/badge/Personal-darkgray?style=for-the-badge&logo=Linkedin&label=LinkedIn&labelColor=blue
+[linkedin-url]: https://linkedin.com/in/sebstarsky
+[linkedinCompany-shield]: https://img.shields.io/badge/StarSky%20Productions-darkgray?style=for-the-badge&logo=Linkedin&label=LinkedIn&labelColor=blue
+[linkedinCompany-url]: https://www.linkedin.com/company/starskyproductions/
 [product-screenshot]: images/screenshot.png
 [Unity]: https://img.shields.io/badge/Unity-darkgray?style=for-the-badge&logo=Unity
 [Unity-url]: https://unity.com/
 [Blender]: https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=Blender
-[Blender-url]: https://reactjs.org/
+[Blender-url]: https://www.blender.org/
 [C#]: https://img.shields.io/badge/C%23-darkviolet?style=for-the-badge&logo=C%23
 [C#-url]: https://vuejs.org/
