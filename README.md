@@ -15,7 +15,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="https://i.ibb.co/7xhmFJ6/logio-productions2.png" alt="Logo" width="350" height="350">
   </a>
 
 <h3 align="center">Light And Sound - Swansea Railway Station</h3>
@@ -260,5 +260,5 @@ Project Link: [https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Ra
 [Unity-url]: https://unity.com/
 [Blender]: https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=Blender
 [Blender-url]: https://www.blender.org/
-[C#]: https://img.shields.io/badge/C%23-darkviolet?style=for-the-badge&logo=C%23
-[C#-url]: https://vuejs.org/
+[C#]: https://img.shields.io/badge/C%23-darkviolet?style=for-the-badge&=C%23
+[C#-url]: https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
