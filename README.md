@@ -113,31 +113,15 @@
 
 - **1 Page Reflection**: Reflect on the project, detailing the development process, challenges faced, and lessons learned.
 
-## Consultation of Marking Rubric
-
-- Review the marking rubric at an early stage to ensure the project aligns with the assessment criteria and maximizes the potential grade.
-
-This project allowed me to apply and expand upon the VR skills and knowledge acquired during my MSc Virtual Reality studies, with a specific focus on creating immersive and realistic 3D environments.
-
-
-
-
-Here's a blank template to get started: To avoid retyping too much info. Do a search and replace with your text editor for the following: `github_username`, `repo_name`, `twitter_handle`, `linkedin_username`, `email_client`, `email`, `project_title`, `project_description`
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 
-
 ### Built With
 
-* [![Next][Next.js]][Next-url]
-* [![React][React.js]][React-url]
-* [![Vue][Vue.js]][Vue-url]
-* [![Angular][Angular.io]][Angular-url]
-* [![Svelte][Svelte.dev]][Svelte-url]
-* [![Laravel][Laravel.com]][Laravel-url]
-* [![Bootstrap][Bootstrap.com]][Bootstrap-url]
-* [![JQuery][JQuery.com]][JQuery-url]
+* [![Unity][Unity]][Unity-url]
+* [![Blender][Blender]][Blender-url]
+* [![C#][C#]][C#-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -148,14 +132,19 @@ Here's a blank template to get started: To avoid retyping too much info. Do a se
 
 ### Windows Instructions
 
-1. **Download the Release**
-   - Navigate to the Releases section of this GitHub repository and download the latest version of the application, typically named something like `Swansea Railway Station.exe`.
+1. **Locate the Downloaded File**: Navigate to your `Downloads` folder or the location where you saved the downloaded `.exe` file.
+2. **Launch the Application**: Double-click on `Swansea Railway Station.exe` to start the application.
 
-2. **Connect Your Headset to the Computer**
-   - Use a USB cable to connect your VR headset to your computer. If prompted on the headset, allow data access from the computer.
+#### Open the Application in Your VR Headset
 
-3. **Run the Application**
-   - Locate the downloaded `.exe` file in your Downloads folder or wherever you saved it. Double-click on `Swansea Railway Station.exe` to launch the application. Make sure your VR headset is on and set up correctly to start experiencing the environment.
+- **For Oculus Quest (or Similar VR Headsets)**:
+  1. **Connect Your Headset to the PC**: If you haven't already, connect your Oculus Quest to your PC using a compatible USB-C cable. For a wireless connection, ensure that Air Link is properly set up and enabled on both your PC and headset.
+  2. **Allow Access**: If prompted on your headset, select 'Allow' to permit access to data from your PC.
+  3. **Enable Oculus Link**: On your Oculus Quest, enable Oculus Link via the prompt on the headset to access PC VR content. This step bridges your PC's VR application output directly to your headset.
+  4. **Wear Your Headset**: Once Oculus Link is enabled, put on your headset. You should see the PC VR environment displayed in your VR space.
+  5. **Launch the Application**: With the application already running on your PC, you should be able to access it directly from within the VR interface provided by Oculus Link or similar software for other headsets.
+
+Ensure your VR headset is correctly configured and recognized by your PC. Refer to the headset's user manual or official support channels for specific setup instructions or troubleshooting steps.
 
 ### Oculus Quest Instructions (Using SideQuest)
 
@@ -203,33 +192,20 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-- [ ] Feature 1
-- [ ] Feature 2
-- [ ] Feature 3
-    - [ ] Nested Feature
-
+- [ ] Optimize the environment so it can run on the standalone smoothly
+- [ ] Add NPC's
+   - [ ] ChatGPT dialogue system?
+- [ ] Add interactive elements to the scene
+    - [ ] Ticket gates, shops, etc.
+    - [ ] Working ticket machine?
+- [ ] Add more trains/traffic
+- [ ] Add terrain to the route using Google Maps plugin
+- [ ] Create textures to make the scene more realistic
+- [ ] Work on reflections and lighting
+      
 See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
-<!-- CONTRIBUTING -->
-## Contributing
-
-Contributions are what make the open source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-
-If you have a suggestion that would make this better, please fork the repo and create a pull request. You can also simply open an issue with the tag "enhancement".
-Don't forget to give the project a star! Thanks again!
-
-1. Fork the Project
-2. Create your Feature Branch (`git checkout -b feature/AmazingFeature`)
-3. Commit your Changes (`git commit -m 'Add some AmazingFeature'`)
-4. Push to the Branch (`git push origin feature/AmazingFeature`)
-5. Open a Pull Request
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 <!-- LICENSE -->
@@ -246,7 +222,7 @@ Distributed under the License. See `LICENSE.txt` for more information.
 
 StarSky Productions - [@LinkedIn](https://www.linkedin.com/company/starskyproductions/) - email@email_client.com
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/](https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -255,9 +231,21 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* []()
-* []()
-* []()
+* [Metro Bench Model - Wille Evensson (@Wevensson) ](inTheProject)
+* [Realistic Fences Pack - WhiteXopc](inTheProject)
+* [Station -  Comicaroid (@yuuuusukeeee)]()
+* [Animated Ticket Gate - €r!c (@ericdavis)]()
+* [Concrete Modern Fence - egorshevelkovv]()
+* [Buffer Stop - LorenzS]()
+* [Train - Class 150 DMU Transport for Wales - timblewee]()
+* [Train - GWR Green livery Class 43 HST - timblewee]()
+* [Mark 3 Carriage Std Open GWR Green - timblewee]()
+* [Metro Card Machine - johhny3D]()
+* [fluorescent lamp - valentin321]()
+* [Rolling Shutter - Origicube]()
+* [Discarded Monitor - Kish San (@kishsan)]()
+* [Iron Fence - Thunder (@thunderpwn)]()
+* [Mini Market - Elbolillo (@Elbolilloduro)]()
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -278,19 +266,9 @@ Project Link: [https://github.com/github_username/repo_name](https://github.com/
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
-[Next.js]: https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white
-[Next-url]: https://nextjs.org/
-[React.js]: https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB
-[React-url]: https://reactjs.org/
-[Vue.js]: https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D
-[Vue-url]: https://vuejs.org/
-[Angular.io]: https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
-[Angular-url]: https://angular.io/
-[Svelte.dev]: https://img.shields.io/badge/Svelte-4A4A55?style=for-the-badge&logo=svelte&logoColor=FF3E00
-[Svelte-url]: https://svelte.dev/
-[Laravel.com]: https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white
-[Laravel-url]: https://laravel.com
-[Bootstrap.com]: https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white
-[Bootstrap-url]: https://getbootstrap.com
-[JQuery.com]: https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white
-[JQuery-url]: https://jquery.com 
+[Unity]: https://img.shields.io/badge/Unity-darkgray?style=for-the-badge&logo=Unity
+[Unity-url]: https://unity.com/
+[Blender]: https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=Blender
+[Blender-url]: https://reactjs.org/
+[C#]: https://img.shields.io/badge/C%23-darkviolet?style=for-the-badge&logo=C%23
+[C#-url]: https://vuejs.org/
