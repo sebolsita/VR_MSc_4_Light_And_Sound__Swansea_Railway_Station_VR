@@ -6,6 +6,7 @@
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![MIT License][license-shield]][license-url]
+[![website][website]][website-url]
 [![LinkedInCompany][linkedinCompany-shield]][linkedinCompany-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -106,6 +107,7 @@
 * [![Unity][Unity]][Unity-url]
 * [![Blender][Blender]][Blender-url]
 * [![C#][C#]][C#-url]
+* [![Oculus][Oculus]][Oculus-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -189,7 +191,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [ ] Create textures to make the scene more realistic
 - [ ] Work on reflections and lighting
       
-See the [open issues](https://github.com/github_username/repo_name/issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -206,7 +208,8 @@ Distributed under the CC BY-NC-ND 4.0 License. See `LICENSE.txt` for more inform
 <!-- CONTACT -->
 ## Contact
 
-StarSky Productions - sebolsita@int.pl
+StarSky Productions - starsky.productions@protonmail.com
+  <br>[![website][website]][website-url]
   <br>[![LinkedInCompany][linkedinCompany-shield]][linkedinCompany-url]
   <br>[![LinkedIn][linkedin-shield]][linkedin-url]
 
@@ -241,24 +244,28 @@ Project Link: [https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Ra
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/github_username/repo_name.svg?style=for-the-badge
+[contributors-shield]: https://img.shields.io/github/contributors/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR.svg?style=for-the-badge
 [contributors-url]: https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/github_username/repo_name.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR.svg?style=for-the-badge
 [forks-url]: https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/network/members
-[stars-shield]: https://img.shields.io/github/stars/github_username/repo_name.svg?style=for-the-badge
-[stars-url]: https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VRrepo_name/stargazers
-[issues-shield]: https://img.shields.io/github/issues/github_username/repo_name.svg?style=for-the-badge
+[stars-shield]: https://img.shields.io/github/stars/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR.svg?style=for-the-badge
+[stars-url]: https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/stargazers
+[issues-shield]: https://img.shields.io/github/issues/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR.svg?style=for-the-badge
 [issues-url]: https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/issues
-[license-shield]: https://img.shields.io/github/license/github_username/repo_name.svg?style=for-the-badge
+[license-shield]: https://img.shields.io/github/license/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR.svg?style=for-the-badge
 [license-url]: https://creativecommons.org/licenses/by-nc-nd/4.0/deed.en
 [linkedin-shield]: https://img.shields.io/badge/Personal-darkgray?style=for-the-badge&logo=Linkedin&label=LinkedIn&labelColor=blue
 [linkedin-url]: https://linkedin.com/in/sebstarsky
 [linkedinCompany-shield]: https://img.shields.io/badge/StarSky%20Productions-darkgray?style=for-the-badge&logo=Linkedin&label=LinkedIn&labelColor=blue
 [linkedinCompany-url]: https://www.linkedin.com/company/starskyproductions/
+[website]: https://img.shields.io/badge/website-Star--Sky.co.uk-blue?style=for-the-badge&logo=Microsoft%20Edge&logoColor=White
+[website-url]: https://star-sky.co.uk
 [product-screenshot]: images/screenshot.png
 [Unity]: https://img.shields.io/badge/Unity-darkgray?style=for-the-badge&logo=Unity
 [Unity-url]: https://unity.com/
 [Blender]: https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=Blender
 [Blender-url]: https://www.blender.org/
-[C#]: https://img.shields.io/badge/C%23-darkviolet?style=for-the-badge&=C%23
+[C#]: https://img.shields.io/badge/C%23-darkviolet?style=for-the-badge&logo=C%23&logoColor=violet
 [C#-url]: https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+[Oculus]: https://img.shields.io/badge/Quest3-lightgray?style=for-the-badge&logo=Oculus&logoColor=White
+[Oculus-url]: https://www.meta.com/gb/quest/
