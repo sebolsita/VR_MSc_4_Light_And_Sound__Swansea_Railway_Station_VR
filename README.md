@@ -107,6 +107,9 @@
 * [![Unity][Unity]][Unity-url]
 * [![Blender][Blender]][Blender-url]
 * [![C#][C#]][C#-url]
+* [![VisualStudio][VisualStudio]][VisualStudio-url]
+* [![Vegas][Vegas]][Vegas-url]
+* [![Audacity][Audacity]][Audacity-url]
 * [![Oculus][Oculus]][Oculus-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -267,5 +270,11 @@ Project Link: [https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Ra
 [Blender-url]: https://www.blender.org/
 [C#]: https://img.shields.io/badge/C%23-darkviolet?style=for-the-badge&logo=C%23&logoColor=violet
 [C#-url]: https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/
+[VisualStudio]: https://img.shields.io/badge/Visual%20Studio-darkviolet?style=for-the-badge&logo=Visual%20Studio&logoColor=violet
+[VisualStudio-url]: https://visualstudio.microsoft.com/
+[Audacity]: https://img.shields.io/badge/Audacity-orange?style=for-the-badge&logo=audacity&logoColor=lightblue
+[Audacity-url]: https://www.audacityteam.org/
+[Vegas]: https://img.shields.io/badge/Sony%20Vegas-%23494949?style=for-the-badge&logo=vegas&logoColor=blue
+[Vegas-url]: https://www.vegascreativesoftware.com/gb/vegas-pro/
 [Oculus]: https://img.shields.io/badge/Quest3-lightgray?style=for-the-badge&logo=Oculus&logoColor=White
 [Oculus-url]: https://www.meta.com/gb/quest/
