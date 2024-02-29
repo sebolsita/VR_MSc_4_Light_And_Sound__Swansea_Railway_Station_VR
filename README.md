@@ -68,7 +68,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
+[![Product Name Screen Shot][product-screenshot]]([https://example.com](https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/assets/146569314/01ce126a-8ba8-4257-8d30-6fcda9e2989b))
+
 
 
 ### Assignment Objectives
@@ -263,7 +264,7 @@ Project Link: [https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Ra
 [linkedinCompany-url]: https://www.linkedin.com/company/starskyproductions/
 [website]: https://img.shields.io/badge/website-Star--Sky.co.uk-blue?style=for-the-badge&logo=Microsoft%20Edge&logoColor=White
 [website-url]: https://star-sky.co.uk
-[product-screenshot]: images/screenshot.png
+[product-screenshot]: https://github.com/sebolsita/VR_MSc_4_Light_And_Sound__Swansea_Railway_Station_VR/assets/146569314/01ce126a-8ba8-4257-8d30-6fcda9e2989b
 [Unity]: https://img.shields.io/badge/Unity-darkgray?style=for-the-badge&logo=Unity
 [Unity-url]: https://unity.com/
 [Blender]: https://img.shields.io/badge/Blender-black?style=for-the-badge&logo=Blender
